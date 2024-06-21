@@ -23,7 +23,7 @@ a{
 }
 
 .container {
-background-color: #948979;
+background-color: #d1c2ab;
 padding: 20px;
 border-radius: 50px;
 box-shadow: 0 0 70px rgba(0, 0, 0, 1);
@@ -65,8 +65,9 @@ transition: background-color 0.4s ease-in-out;
 }
 
 .links a:hover {
-background-color: #DFD0B8;
-box-shadow: 0 0 40px rgba(0, 0, 0, 1);
+background-color: #3C5B6F;
+color: #d1c2ab;
+box-shadow: 0 0 20px rgba(0, 0, 0, 1);
 }
 
 .icon {
@@ -85,7 +86,7 @@ color: #3C5B6F;
     }
 
 .icon a:hover{
-    background-color: #DFD0B8;
+    background-color: #d4d4d3;
 box-shadow: 0 0 40px rgba(0, 0, 0, 1);
 }
 
